@@ -6,4 +6,4 @@ Follow these steps to start
 1. npm install --save
 2. npm start
 
-Check localhost:8888 now.
+Open your browser and type localhost:8888 in addressbar.
